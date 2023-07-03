@@ -1,5 +1,6 @@
 Anton Oleynik
-![](https://github.com/caraalsol/rsschool-cv/assets/45674118/87fbb045-66cb-4b73-b977-c93985484d36)
+![hi](https://github.com/caraalsol/rsschool-cv/assets/45674118/87fbb045-66cb-4b73-b977-c93985484d36)
+
 Contacts:
 
     Email: setrak01010@gmail.com
