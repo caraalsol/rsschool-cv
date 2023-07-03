@@ -12,7 +12,6 @@
 Навыки:
 
     Языки программирования: HTML, CSS, JavaScript
-    Фреймворки: React.js
     Системы контроля версий: Git
     Инструменты разработки: Visual Studio Code, Chrome Developer Tools
 
