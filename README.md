@@ -1,1 +1,1 @@
-# rsschool-cv
+https://caraalsol.github.io/rsschool-cv/cv
