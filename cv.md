@@ -1,23 +1,24 @@
-Антон Олейник
+Anton Oleynik
 
-Контакты:
+Contacts:
 
     Email: setrak01010@gmail.com
 
-Краткая информация о себе:
+Brief information about myself:
 
-Я начинающий вэб-разработчик. Моя цель - стать опытным разработчиком и внести свой вклад в создание качественных веб-приложений. Я ответственный и внимательный к деталям, что позволяет мне обращать внимание на каждую нюанс в процессе разработки. Я также очень любопытный и всегда стремлюсь изучать новые технологии и методы разработки.
+I am a beginner web developer. My goal is to become an experienced developer and contribute to the creation of high-quality web applications. I am responsible and attentive to details, which allows me to pay attention to every nuance in the development process. I am also very curious and always strive to learn new technologies and development methods.
 
-У меня нет опыта работы, но я готов активно учиться и развиваться в веб-разработке. Я мотивирован и стремлюсь узнавать новое каждый день. Я изучал основы веб-разработки, включая HTML, CSS и JavaScript, и знаком с базовыми принципами программирования.
-Навыки:
+I have no work experience, but I am eager to learn and grow in web development. I am motivated and eager to learn something new every day. I have studied the basics of web development, including HTML, CSS, and JavaScript, and I am familiar with the fundamental principles of programming.
 
-    Языки программирования: HTML, CSS, JavaScript
-    Системы контроля версий: Git
-    Инструменты разработки: Visual Studio Code, Chrome Developer Tools
+Skills:
 
-Примеры кода:
-```
-// Пример кода на JavaScript
+    Programming languages: HTML, CSS, JavaScript
+    Version control systems: Git
+    Development tools: Visual Studio Code, Chrome Developer Tools
+
+Code examples:
+```javascript
+// Example code in JavaScript
 
 function greet(name) {
   console.log("Привет, " + name + "!");
@@ -25,8 +26,8 @@ function greet(name) {
 
 greet("Миша"); // Выводит "Привет, Миша!"
 ```
-```
-<!-- Пример кода на HTML -->
+```html
+<!-- Example code in HTML -->
 
 <!DOCTYPE html>
 <html>
@@ -39,14 +40,14 @@ greet("Миша"); // Выводит "Привет, Миша!"
 </html>
 ```
 
-Опыт работы:
+Work experience:
 
-У меня нет опыта работы в веб-разработке.
+I have no work experience in web development.
 
-Образование:
+Education:
 
-    Общее среднее.
+    High school diploma.
 
-Английский язык:
+English language:
 
-Мой уровень английского языка базовый, но я активно работаю над его улучшением. 
+My English language level is basic, but I am actively working on improving it.
