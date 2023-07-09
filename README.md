@@ -1,1 +1,1 @@
-https://caraalsol.github.io/rsschool-cv/cv
+https://caraalsol.github.io/rsschool-cv/
